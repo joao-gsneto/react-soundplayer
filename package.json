@@ -32,11 +32,11 @@
     "soundcloud-audio": "^1.0.3"
   },
   "peerDependencies": {
-    "react": "^0.14.x",
-    "react-dom": "^0.14.x"
+    "react": "^0.15.x",
+    "react-dom": "^0.15.x"
   },
   "devDependencies": {
-    "babel": "^5.1.2",
+    "babel": "^5.4.0",
     "babelify": "^6.0.2",
     "basscss": "^6.0.0",
     "browserify": "^9.0.8",
